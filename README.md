@@ -7,6 +7,12 @@ This project uses a Bayesian Network to simulate the relationship between smokin
 - Visualizes the relationships between smoking, lung cancer, and shortness of breath using bar plots.
 - Displays probability insights, showing the rates of smoking, lung cancer, and shortness of breath in the generated samples.
 
+## Sample Outputs
+
+![Screenshot 1](assets/screenshot1.png)
+
+![Screenshot 2](assets/screenshot2.png)
+
 ## How to Use:
 1. Adjust the sliders in the sidebar to set the probability values for smoking, lung cancer, and shortness of breath.
 2. Click the "Generate Samples" button to generate the samples and visualize the results.
